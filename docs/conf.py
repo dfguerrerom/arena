@@ -43,8 +43,8 @@ html_static_path = ["_static"]
 
 html_theme_options = {
     "logo": {
-        "image_light": "_static/main.png",
-        "image_dark": "_static/main.png",
+        "image_light": "_static/media/logo/arena.png",
+        "image_dark": "_static/media/logo/arena.png",
     },
     "header_links_before_dropdown": 7,
     "navigation_with_keys": False,

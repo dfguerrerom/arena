@@ -12,13 +12,13 @@
 
 
 
-.. image:: _static/media/Images/1/of_logo.png
+.. image:: _static/media/logo/openforis.png
    :width: 150
    :align: left
    :alt: OF logo
 
 
-.. image:: _static/media/Images/1/arena_logo.png
+.. image:: _static/media/logo/arena.png
    :width: 150
    :align: right
    :alt: Arena Logo
